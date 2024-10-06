@@ -1,0 +1,7 @@
+{
+    "max_concurrent_requests": 10,
+    "addresses_file": "addresses.txt",
+    "proxies_file": "proxies.txt",
+    "output_file": "commonwealth_checker.xlsx",
+    "api_base_url": "https://api.commonwealth4.com/airdrop_balance?user="
+}
